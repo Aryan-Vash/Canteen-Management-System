@@ -73,7 +73,7 @@ java ByteMe
 
 The UML class structure can be viewed in:
 
-> 📄 `UML_ASSIGNMENT-4.png`
+> `UML.png`
 
 It outlines key classes like `User`, `Customer`, `Item`, `Order`, and the GUI components.
 
