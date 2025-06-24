@@ -95,6 +95,6 @@ This includes design decisions, screenshots, and potential extensions.
 
 ---
 
-## 📃 License
+## License
 
 This project is for academic and educational purposes only.
