@@ -1,0 +1,8 @@
+paratha,30,meals,20
+coke,20,beverage,10
+slice,20,beverage,10
+kurkure,20,snacks,25
+doritos,50,snacks,5
+pao bhaji,40,meals,10
+chole bhature,40,meals,10
+lays,30,snacks,20

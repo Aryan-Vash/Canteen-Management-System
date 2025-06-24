@@ -1,0 +1,1 @@
+1,preparing,slice: 4; paratha: 10;
